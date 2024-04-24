@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@heroicons/react": "^1.0.6",
+    "@moralisweb3/next": "^2.26.1",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
@@ -19,6 +20,7 @@
     "i18next": "^21.8.11",
     "magic-sdk": "^8.1.1",
     "moralis": "^1.11.0",
+    "next-auth": "^4.24.7",
     "postcss": "^8.4.14",
     "react": "^18.2.0",
     "react-debounce-input": "^3.3.0",
